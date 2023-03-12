@@ -1,6 +1,6 @@
-## Hi everyone 👋
+## Hi everyone, I'm Alexander Potapov👋
 
-My name is **Alexander Potapov** and I'm into game development! But I also like web-development, mostly back-end in Python.</p>
+I'm into game development! But I also like web-development, mostly back-end in Python.
 
 ### 🔭 Skills
 
