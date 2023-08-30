@@ -4,10 +4,9 @@ I'm into web-fullstack development! But I also like game-development.
 
 ### 🔭 Skills
 
-My favorite programming language is **Java**, but I also have skills in:
+My favorite programming language is **Java** and **JS**, but I also have skills in:
 - **Python**, also for data science with **Jupyter Notebook**
 - **C#**
-- **JavaScript**
 
 Also I have some other skills:
 - **Vue3**
