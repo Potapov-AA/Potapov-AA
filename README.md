@@ -1,26 +1,20 @@
 ## Hi everyone, I'm Alexander Potapov👋
 
-I'm into game development! But I also like web-development, mostly back-end in Python.
+I'm into web-fullstack development! But I also like game-development.
 
 ### 🔭 Skills
 
-My favorite programming language is **Python**, but I also have skills in:
-- **Python** for data science with **Jupyter Notebook**
+My favorite programming language is **Java**, but I also have skills in:
+- **Python**, also for data science with **Jupyter Notebook**
 - **C#**
 - **JavaScript**
-- a bit of **Java** and **PHP**
 
-I enjoy building game with **Unity** and **Godot**!
 Also I have some other skills:
-- **Flask**
+- **Vue3**
 - **SQL** (Oracle, MySql and a bit of PostgreSQL)
 - **NoSQL** (MongoDB)
-- **HTML** and **CSS**
 - **Git**
-- **Python for desktop**
-- a bit **Django**
-- a bit **Node.js**
-- a bit **Vue.js** and **React.js**
+- a bit **React.js**
 
 ### 🌱 Education
 
